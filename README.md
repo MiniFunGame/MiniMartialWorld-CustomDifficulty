@@ -1,7 +1,7 @@
 # MiniMartialWorld - 自定义难度模组示例（含完整代码与注释）
 
 > 本文档演示 **如何以 Workshop 形式添加自定义难度**。  
-> 重点：**通过实现 `IWorkshopDifficultyModifier` 的 `ChallengeDifficultyModifier`** 将自定义难度注入到指定挑战里（例如金塔挑战）。  
+> 重点：**通过实现 `IWorkshopDifficultyModifier` 的 `ChallengeDifficultyModifier`** 将自定义难度注入到指定挑战里（例如一掷千金挑战）。  
 > 同时提供 6 个难度（**真龙之血、抱朴守中、钞能废柴、武痴、无极生衍、夙世因缘**）的**完整 C# 代码**与**逐行注释**。
 
 ---
