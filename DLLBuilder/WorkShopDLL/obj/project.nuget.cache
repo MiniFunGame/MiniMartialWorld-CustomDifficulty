@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "6onZUs82wqPqtOcpU1uRtd/er523BDLLuP7fiCVBi9zC/ibZ4mcMhEUaf+9N8ZrGzsLlUlbig2ZSJpa2CneWSg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\13556\\Desktop\\workshopsample\\MiniMartialWorld-CustomDifficultySetting - 副本\\DLLBuilder\\WorkShopDLL\\ChallengeDifficultyModifier.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\13556\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\13556\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
